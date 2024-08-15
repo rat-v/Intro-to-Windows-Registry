@@ -1,4 +1,4 @@
-# Intro-to-Windows-Registry
+# Intro-to-Windows-Registry 
 ## Objective
 In this lab, I am exposing myself to the Windows Registry Editor,
 looking around the hives for useful information. I will then use FTK
